@@ -1,0 +1,18 @@
+.likes {
+    background-color: #4a4a4a;
+    height: 5px;
+    float: left;
+
+}
+
+.dislikes {
+    background-color: rgba(74, 74, 74, 0.29);
+    height: 5px;
+    float: right;
+
+}
+
+.container {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

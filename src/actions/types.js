@@ -1,0 +1,5 @@
+export const MOVIES_FETCH = 'MOVIES_FETCH';
+export const DELETE_MOVIE = 'DELETE_MOVIE';
+export const LIKE_MOVIE = 'LIKE_MOVIE';
+export const DISLIKE_MOVIE = 'DISLIKE_MOVIE';
+export const CATEGORIES_FETCH = 'CATEGORIES_FETCH';
